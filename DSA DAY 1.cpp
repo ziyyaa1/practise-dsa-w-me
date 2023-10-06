@@ -7,10 +7,10 @@ using namespace std;
 int main()
 {
 	//DAY 1:
-//  printing
-//  data types (char, string, int, float, double), Typecasting.
-//  operators (arithmetic, logical, relational), div rule.
-//  Loops (if, if-else, while, for), switch case.
+//1.  printing
+//2.  data types (char, string, int, float, double), Typecasting.
+//3.  operators (arithmetic, logical, relational), div rule.
+//4.  Loops (if, if-else, while, for), switch case.
 	int i = 1, n;
 	cout << "Enter number of rows you want to print\n";
 	/*int AGE;
